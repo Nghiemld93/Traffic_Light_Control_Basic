@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-10-24 14:35:18 by Eclipse SUMO GUI Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\environment.net.xml"/>
+        <route-files value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\episode_routes.rou.xml"/>
+    </input>
+
+    <output>
+        <emission-output value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\Output/Emission.xml"/>
+        <fcd-output value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\Output/fcd.xml"/>
+        <fcd-output.distance value="true"/>
+        <fcd-output.acceleration value="true"/>
+        <fcd-output.filter-edges.input-file value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\Edge.txt"/>
+        <fcd-output.attributes value="all"/>
+        <tripinfo-output value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\Output/tripinfo.xml"/>
+        <statistic-output value="E:\Hung-Sumo\2022-09\Platoon%20size\ATSC-%20Simpla-1\intersection\Output/statistic.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <collision.action value="warn"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <no-warnings value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <emissions>
+        <device.emissions.period value="100"/>
+    </emissions>
+
+    <fcd_device>
+        <device.fcd.period value="0.1"/>
+    </fcd_device>
+
+    <gui_only>
+        <delay value="100"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+</detector>
