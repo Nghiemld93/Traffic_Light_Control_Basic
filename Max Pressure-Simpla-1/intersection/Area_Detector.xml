@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-07-07 20:51:09 by Eclipse SUMO netedit Version v1_12_0+1360-ac211ce9a9a
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <e2Detector id="e2_0" lane="end1_junction_0" pos="385.00" length="100.00" freq="300.00" file="e2_0.xml"/>
+    <e2Detector id="e2_1" lane="end1_junction_1" pos="385.00" length="100.00" freq="300.00" file="e2_1.xml"/>
+    <e2Detector id="e2_10" lane="junction_end2_1" pos="0.00" length="100.00" freq="300.00" file="e2_10.xml"/>
+    <e2Detector id="e2_11" lane="junction_end2_0" pos="0.00" length="100.00" freq="300.00" file="e2_11.xml"/>
+    <e2Detector id="e2_12" lane="junction_end3_2" pos="0.00" length="100.00" freq="300.00" file="e2_12.xml"/>
+    <e2Detector id="e2_13" lane="junction_end3_1" pos="0.00" length="100.00" freq="300.00" file="e2_13.xml"/>
+    <e2Detector id="e2_14" lane="junction_end3_0" pos="0.00" length="100.00" freq="300.00" file="e2_14.xml"/>
+    <e2Detector id="e2_15" lane="end4_junction_2" pos="385.00" length="100.00" freq="300.00" file="e2_15.xml"/>
+    <e2Detector id="e2_16" lane="end2_junction_0" pos="385.00" length="100.00" freq="300.00" file="e2_16.xml"/>
+    <e2Detector id="e2_17" lane="end4_junction_1" pos="385.00" length="100.00" freq="300.00" file="e2_17.xml"/>
+    <e2Detector id="e2_18" lane="end4_junction_0" pos="385.00" length="100.00" freq="300.00" file="e2_18.xml"/>
+    <e2Detector id="e2_19" lane="end4_junction_0" pos="435.31" length="50.00" freq="300.00" file="e2_19.xml"/>
+    <e2Detector id="e2_2" lane="end1_junction_2" pos="385.00" length="100.00" freq="300.00" file="e2_2.xml"/>
+    <e2Detector id="e2_20" lane="end2_junction_1" pos="385.00" length="100.00" freq="300.00" file="e2_20.xml"/>
+    <e2Detector id="e2_21" lane="end2_junction_2" pos="385.00" length="100.00" freq="300.00" file="e2_21.xml"/>
+    <e2Detector id="e2_22" lane="end3_junction_2" pos="385.00" length="100.00" freq="300.00" file="e2_22.xml"/>
+    <e2Detector id="e2_23" lane="end3_junction_1" pos="385.00" length="100.00" freq="300.00" file="e2_23.xml"/>
+    <e2Detector id="e2_24" lane="end3_junction_0" pos="385.00" length="100.00" freq="300.00" file="e2_24.xml"/>
+    <e2Detector id="e2_26" lane="junction_end4_0" pos="0.00" length="100.00" freq="300.00" file="e2_26.xml"/>
+    <e2Detector id="e2_3" lane="junction_end1_2" pos="1.00" length="100.00" freq="300.00" file="e2_3.xml"/>
+    <e2Detector id="e2_4" lane="junction_end1_1" pos="1.00" length="100.00" freq="300.00" file="e2_4.xml"/>
+    <e2Detector id="e2_5" lane="junction_end1_0" pos="1.04" length="100.00" freq="300.00" file="e2_5.xml"/>
+    <e2Detector id="e2_7" lane="junction_end4_1" pos="0.00" length="100.00" freq="300.00" file="e2_7.xml"/>
+    <e2Detector id="e2_8" lane="junction_end4_2" pos="0.00" length="100.00" freq="300.00" file="e2_8.xml"/>
+    <e2Detector id="e2_9" lane="junction_end2_2" pos="0.00" length="100.00" freq="300.00" file="e2_9.xml"/>
+</additional>
